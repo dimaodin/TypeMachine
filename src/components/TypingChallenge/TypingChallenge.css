@@ -1,0 +1,111 @@
+.typing-challenge {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.timer-container {
+  margin: 16px;
+  /* margin-bottom: 0; */
+}
+
+.timer {
+  color: #3d6cb9;
+  opacity: 0.8;
+  font-size: 45px;
+  font-weight: 600;
+  margin-top: 2rem;
+  text-align: center;
+  border: 2px;
+  padding: 10px;
+  box-shadow: 3px 10px 20px 3px #719ECE;
+  border-radius: 25px;
+}
+
+.timer-info {
+  margin-top: 2rem;
+  color: #000000;
+  opacity: 0.5;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+
+.textarea-container {
+  margin: 16px;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  width: 70%;
+}
+
+.textarea:focus {
+  outline: none !important;
+  border:1px solid #3d6cb9;
+  box-shadow: 0 0 14px #719ECE;
+}
+
+.textarea-left,
+.textarea-right {
+  display: flex;
+  width: 50%;
+  flex-grow: 1;
+}
+
+@media screen and (max-width: 700px) {
+  .textarea-container{
+    display: block;
+    width: 70%;
+  }
+
+  .textarea-left{
+    margin-bottom: 1rem;
+    padding-bottom: 10px;
+  }
+
+  .textarea-left,
+  .textarea-right  {
+    display: block;
+    width: 100%;
+  }
+}
+
+.textarea {
+  text-align: left;
+  flex-grow: 1;
+  height: 400px;
+  width: 100%;
+  padding: 10px;
+  border-radius: 25px;
+  margin-right: 5px;
+  line-height: 18px;
+  flex-wrap: wrap;
+  box-shadow: 0 1px 3px #999;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  overflow: scroll;
+}
+
+.textarea:hover {
+  box-shadow: 0 1px 10px #719ECE;
+}
+
+.textarea::-webkit-scrollbar {
+  display: none;
+}
+
+.textarea {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.test-paragraph {
+  font-size: 12px;
+  background: #000000;
+  opacity: 0.8;
+  padding: 12px;
+  /* display: flex;
+    flex-direction: row; */
+}

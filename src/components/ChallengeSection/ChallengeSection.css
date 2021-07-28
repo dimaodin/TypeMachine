@@ -1,0 +1,19 @@
+.challenge-section-container {
+  min-height: 90vh;
+  flex-direction: column;
+  align-items: center;
+  margin: 24px 0;
+  padding: 20px;
+}
+
+.challenge-section-header {
+  text-align: center;
+  color: #3d6cb9;
+  font-family: "Staatliches", cursive;
+  font-size: 64px;
+  letter-spacing: 4px;
+  cursor: grab;
+}
+.challenge-section-header span {
+  color: #000;
+}

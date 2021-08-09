@@ -12,10 +12,6 @@ If you have an idea for an enhancement, go ahead and share it via an issue, but 
 
 This project is MIT-licensed, and this means that you can implement and use whatever enhancements you'd like.
 
-## Commits and Code Style
-
-[Husky](https://github.com/typicode/husky) execute scrips according to git hooks in order to test if a developer is following the [Eslint Lint Rules](https://github.com/LauraBeatris/gobarber-web/blob/master/.eslintrc.js) and also the commits convention.
-
 ## Bug reports
 
 If you encounter a problem with this project, please open an issue. Be sure to include:

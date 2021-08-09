@@ -54,6 +54,6 @@ Check out the [contributing](https://github.com/dimaodin/TypeMachine/master/CONT
 Released in 2021.
 This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/master/LICENSE).
 
-
+<br>
 
 ##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀

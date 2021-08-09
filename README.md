@@ -44,13 +44,13 @@ $> npm start
 
 ## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [TypeMachine](https://github.com/dimaodin/TypeMachine/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/dimaodin/TypeMachine/master/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [TypeMachine](https://github.com/dimaodin/TypeMachine/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/dimaodin/TypeMachine/blob/main/CONTRIBUTING.md) to find out about the coding standards.
 
 <br>
 
 ## :tada: Contributing
 
-Check out the [contributing](https://github.com/dimaodin/TypeMachine/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Check out the [contributing](https://github.com/dimaodin/TypeMachine/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 <br>
 

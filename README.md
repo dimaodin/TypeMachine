@@ -10,7 +10,7 @@ SOON
 
 ## :construction_worker: Installation
 
-**You need to install [Node.js](https://nodejs.org/en/download/) and [NPM](https://www.npmjs.com/) first, then in order to clone the project via HTTPS, run this command:**
+***You need to install [Node.js](https://nodejs.org/en/download/) and [NPM](https://www.npmjs.com/) first, then in order to clone the project via HTTPS, run this command:***
 
 At the root of the Project run:
 
@@ -44,7 +44,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 Check out the [contributing](https://github.com/dimaodin/TypeMachine/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-# :closed_book: License
+## :closed_book: License
 
 Released in 2021.
 This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/master/LICENSE).

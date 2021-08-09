@@ -23,7 +23,7 @@ $> git clone https://github.com/dimaodin/typemachine.git
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git clone git@github.com:DimaOdin/typemachine.git
+$> git clone git@github.com:dimaodin/typemachine.git
 ```
 
 **Install dependencies**
@@ -53,6 +53,7 @@ Check out the [contributing](https://github.com/dimaodin/TypeMachine/master/CONT
 
 Released in 2021.
 This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/master/LICENSE).
+
 
 
 ##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀

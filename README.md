@@ -57,7 +57,7 @@ Check out the [contributing](https://github.com/dimaodin/TypeMachine/blob/main/C
 ## :closed_book: License
 
 Released in 2021.
-This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/master/LICENSE).
+This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/blob/main/LICENSE).
 
 <br>
 

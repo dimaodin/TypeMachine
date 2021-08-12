@@ -11,7 +11,7 @@
   font-family: "Staatliches", cursive;
   font-size: 64px;
   letter-spacing: 4px;
-  cursor: grab;
+  cursor: default;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;

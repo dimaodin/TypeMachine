@@ -4,6 +4,7 @@
   padding-bottom: 2rem;
   border-radius: 25px;
   width: 100%;
+  cursor: default;
   min-height: 700px;
   display: flex;
   flex-wrap: wrap;

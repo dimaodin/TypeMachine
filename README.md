@@ -61,4 +61,4 @@ This project is under the [MIT license](https://github.com/dimaodin/TypeMachine/
 
 <br>
 
-##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀
+##### Made with love by [Dima Odintsov](https://github.com/DimaOdin), make sure to check my [portfolio](https://dimaodin.com/) 💜🚀
